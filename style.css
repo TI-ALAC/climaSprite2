@@ -4,8 +4,8 @@
 }
 
 @font-face {
-    font-family: 'anton';
-    src: url(fonts/anton.ttf);
+    font-family: 'Meera Inimai';
+    src: url(fonts/MeeraInimai-Regular.ttf);
     font-weight: regular;
 }
 
@@ -44,7 +44,7 @@ img {
 
 #pozoUnidad {
     font-size: 122pt;
-    font-family: 'anton', sans-serif;
+    font-family: 'Meera Inimai', sans-serif;
     color: #FFF;
     left: 32%;
     top: 30%;
@@ -53,7 +53,7 @@ img {
 
 #millones {
     font-size: 122pt;
-    font-family: 'anton', sans-serif;
+    font-family: 'Meera Inimai', sans-serif;
     color: #FFF;
     left: 15%;
     top: 30%;
@@ -68,7 +68,7 @@ img {
 
     #millones {
         font-size: 63pt !important;
-        font-family: 'anton', sans-serif;
+        font-family: 'Meera Inimai', sans-serif;
         color: #FFF !important;
         left: 67%;
         top: 50%;
@@ -82,7 +82,7 @@ img {
 @media only screen and (max-width: 720px) {
     #millones {
         font-size: 63pt !important;
-        font-family: 'anton', sans-serif;
+        font-family: 'Meera Inimai', sans-serif;
         color: #FFF !important;
         left: 67%;
         top: 50%;
