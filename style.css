@@ -23,6 +23,9 @@
 #contenido6{
     background-color: black;
 }
+#contenido7{
+    background-color: black;
+}
 img {
     object-fit: fill;
     position: absolute;
@@ -58,28 +61,7 @@ img {
 }
 
 
-/* 800x420 */
-@media only screen and (max-width: 800px) {
-    #pozoUnidad {
-        font-size: 75pt !important;
-        font-family: 'anton', sans-serif;
-        color: #FFF !important;
-        position: absolute;
-        left: 37%;
-        top: 37%;
-        letter-spacing: 1px;
-    }
 
-    #millones {
-        font-size: 63pt !important;
-        font-family: 'anton', sans-serif;
-        color: #FFF !important;
-        left: 67%;
-        top: 50%;
-        font-style: normal;
-        position: absolute;
-    }
-}
 
 /* 768x384 */
 @media only screen and (max-width: 768px) {
