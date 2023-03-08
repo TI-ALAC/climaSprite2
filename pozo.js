@@ -41,7 +41,7 @@ async function init() {
   } else if (text_clima == 'cielo claro' || text_clima == 'algo de nubes'|| text_clima == 'nubes dispersas') {
     content4.style.display = "block";
     
-  } else if (text_clima == 'lluvia ligera' || text_clima == 'tormenta con lluvia ligera'|| text_clima == 'lluvia moderada' || text_clima == 'tormenta' || text_clima == 'tormenta con lluvia intensa') {
+  } else if (text_clima == 'lluvia ligera' || text_clima == 'tormenta con lluvia ligera'|| text_clima == 'lluvia moderada' || text_clima == 'tormenta' || text_clima == 'tormenta con lluvia intensa' || text_clima == 'tormenta con lluvia') {
     content5.style.display = "block";
 
   }else if (text_clima == 'nubes') {
