@@ -36,7 +36,7 @@ async function init() {
   const unir = palabraDia + "," + palabraFecha;
   document.getElementById('title1').innerHTML = result+'°';
 
-  if (text_clima == 'niebla' || text_clima == 'muy nuboso' ) {
+  if (text_clima == 'niebla' || text_clima == 'muy nuboso' || text_clima == 'bruma') {
     content3.style.display = "block";
   } else if (text_clima == 'cielo claro' || text_clima == 'algo de nubes'|| text_clima == 'nubes dispersas') {
     content4.style.display = "block";
